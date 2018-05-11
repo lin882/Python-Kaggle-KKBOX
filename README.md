@@ -6,3 +6,4 @@ We joined the Kaggle competition of KKBOX churn rate prediction by using SVM (sk
 * Taeyong Kim
 * Prasad Gujela
 * Sonakshi Malhotra
+* Prof Metthew A Lanham
